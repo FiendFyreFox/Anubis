@@ -250,4 +250,4 @@ async def hpy_elo(ctx, R1, R2, Scr):
 
 
 
-client.run('NjkyNDM0NzUyMDQ4OTg4MTkw.XoPYxw.eux-cgfqQMVY0dxtfAyeHtcIX8Q')
+client.run('BOT TOKEN GOES HERE')
